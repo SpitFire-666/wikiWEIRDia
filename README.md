@@ -1,6 +1,6 @@
 # wikiWEIRDia
 
-## A collection of interesting Wikipedia articles
+## A collection of interesting Wikipedia articles collected through the years
 
 Scandals, Tragedies, Eccentric People, the Unexplained, Disappearances, Conspiracies, Coincidences, Murderers, Cannibals, Novelties, Superstitions, interesting Places, Theories, Hoaxes...
 
