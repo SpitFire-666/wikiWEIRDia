@@ -1,6 +1,8 @@
 # wikiWEIRDia
 
-Scandals, Tragedies, Eccentric People, the Unexplained, Disappearances, Conspiracies, Coincidences, Murderers, Cannibals, Novelties, Superstitions, interesting Places, Theories and more
+## A collection of interesting Wikipedia articles
+
+Scandals, Tragedies, Eccentric People, the Unexplained, Disappearances, Conspiracies, Coincidences, Murderers, Cannibals, Novelties, Superstitions, interesting Places, Theories, Hoaxes...
 
 | Article | Description | Tag(s) |
 |-|-|-|
