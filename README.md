@@ -1,6 +1,8 @@
 # wikiWEIRDia
 
-| Article | Desc | Tag(s) |
+Scandals, Tragedies, Eccentric People, the Unexplained, Disappearances, Conspiracies, Coincidences, Murderers, Cannibals, Novelties, Superstitions, interesting Places, Theories and more
+
+| Article | Description | Tag(s) |
 |-|-|-|
 |[1951 Pont-Saint-Esprit mass poisoning](https://en.wikipedia.org/wiki/1951_Pont-Saint-Esprit_mass_poisoning)|The 1951 Pont-Saint-Esprit mass poisoning, also known as Le Pain Maudit, was a mass poisoning on 15 August 1951, in the small town of Pont-Saint-Esprit in southern France. More than 250 people were involved, including 50 people interned in asylums and 7 deaths. A foodborne illness was suspected, and among these it was originally believed to be a case of \"cursed bread\" (pain maudit).|
 |[1966 Palomares B-52 crash](https://en.wikipedia.org/wiki/1966_Palomares_B-52_crash)|The 1966 Palomares B-52 crash, also called the Palomares incident, occurred on 17 January 1966, when a B-52G bomber of the United States Air Force's Strategic Air Command collided with a KC-135 tanker during mid-air refueling at 31,000 feet (9,450 m) over the Mediterranean Sea, off the coast of Spain. The KC-135 was completely destroyed when its fuel load ignited, killing all four crew members. The B-52G broke apart, killing three of the seven crew members aboard.|
