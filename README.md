@@ -4,17 +4,17 @@
 
 Scandals, Tragedies, Eccentric People, the Unexplained, Disappearances, Conspiracies, Coincidences, Murderers, Cannibals, Novelties, Superstitions, interesting Places, Theories, Hoaxes...
 
-## History 
+## History 📱
 
-I decided to publish my personal list of wiki articles for the greater good after my misguided attempt at an Android app [wikiWEIRDia](). After wrangling Android Studio and Java, I had an app that worked, but little did I realise the real challenges lay within Google's convoluted and frustrating publishing hurdles for the Play Store. 
+I decided to publish my personal list of wiki articles for the greater good after my misguided attempt at an Android app [wikiWEIRDia](). After wrangling Android Studio and Java, I had an app that worked, but little did I realise the real challenges lay within Google's convoluted and frustrating publishing hurdles for the Play Store.
 
 Through sheer determination, the app was approved and listed, only to die a death-by-algorithm. Searching for its exact, unique name in the Play Store would instead show all kinds of random and unrelated apps, with my app way down the list.
 
-## Support Us!
+## Support This List! 💵
 
-If you find this page entertaining, useful, or even a complete waste of time (in a good way), and want to donate - you can [here!](https://www.paypal.com/paypalme/campbellkerr)
+If you find this page entertaining, useful, or even a complete waste of time (in a good way) and want to donate - you can [here!](https://www.paypal.com/paypalme/campbellkerr)
 
-# The list!
+# The list! 
 
 | Article | Description | Tag(s) |
 |-|-|-|
