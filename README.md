@@ -4,6 +4,18 @@
 
 Scandals, Tragedies, Eccentric People, the Unexplained, Disappearances, Conspiracies, Coincidences, Murderers, Cannibals, Novelties, Superstitions, interesting Places, Theories, Hoaxes...
 
+## History 
+
+I decided to publish my personal list of wiki articles for the greater good after my misguided attempt at an Android app [wikiWEIRDia](). After wrangling Android Studio and Java, I had an app that worked, but little did I realise the real challenges lay within Google's convoluted and frustrating publishing hurdles for the Play Store. 
+
+Through sheer determination, the app was approved and listed, only to die a death-by-algorithm. Searching for its exact, unique name in the Play Store would instead show all kinds of random and unrelated apps, with my app way down the list.
+
+## Support Us!
+
+If you find this page entertaining, useful, or even a complete waste of time (in a good way), and want to donate - you can [here!](https://www.paypal.com/paypalme/campbellkerr)
+
+# The list!
+
 | Article | Description | Tag(s) |
 |-|-|-|
 |[1951 Pont-Saint-Esprit mass poisoning](https://en.wikipedia.org/wiki/1951_Pont-Saint-Esprit_mass_poisoning)|The 1951 Pont-Saint-Esprit mass poisoning, also known as Le Pain Maudit, was a mass poisoning on 15 August 1951, in the small town of Pont-Saint-Esprit in southern France. More than 250 people were involved, including 50 people interned in asylums and 7 deaths. A foodborne illness was suspected, and among these it was originally believed to be a case of \"cursed bread\" (pain maudit).|
