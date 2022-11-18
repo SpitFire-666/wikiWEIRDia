@@ -18,11 +18,12 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 
 | Article | Description | Tag(s) |
 |-|-|-|
-|[1951 Pont-Saint-Esprit mass poisoning](https://en.wikipedia.org/wiki/1951_Pont-Saint-Esprit_mass_poisoning)|The 1951 Pont-Saint-Esprit mass poisoning, also known as Le Pain Maudit, was a mass poisoning on 15 August 1951, in the small town of Pont-Saint-Esprit in southern France. More than 250 people were involved, including 50 people interned in asylums and 7 deaths. A foodborne illness was suspected, and among these it was originally believed to be a case of \"cursed bread\" (pain maudit).|
-|[1966 Palomares B-52 crash](https://en.wikipedia.org/wiki/1966_Palomares_B-52_crash)|The 1966 Palomares B-52 crash, also called the Palomares incident, occurred on 17 January 1966, when a B-52G bomber of the United States Air Force's Strategic Air Command collided with a KC-135 tanker during mid-air refueling at 31,000 feet (9,450 m) over the Mediterranean Sea, off the coast of Spain. The KC-135 was completely destroyed when its fuel load ignited, killing all four crew members. The B-52G broke apart, killing three of the seven crew members aboard.|
-|[1994 Cobo Arena attack](https://en.wikipedia.org/wiki/1994_Cobo_Arena_attack)|At around 2:35 p.m. Eastern Standard Time on January 6, 1994, American figure skater Nancy Kerrigan was struck on the lower right thigh with a telescopic baton by assailant Shane Stant as she walked down a corridor in Cobo Arena in Detroit, Michigan. Kerrigan had been practicing skating on an ice rink in the arena shortly beforehand. The attack was planned by fellow American figure skater Tonya Harding's ex-husband, Jeff Gillooly, and his co-conspirator Shawn Eckardt.|
+|[100 year film]()||
+|[1951 Pont-Saint-Esprit mass poisoning](https://en.wikipedia.org/wiki/1951_Pont-Saint-Esprit_mass_poisoning)|A mass poisoning in 1951, in the small town of Pont-Saint-Esprit in southern France. More than 250 people were involved.|
+|[1966 Palomares B-52 crash](https://en.wikipedia.org/wiki/1966_Palomares_B-52_crash)|A B-52G bomber of the United States Air Force's Strategic Air Command collided with a KC-135 tanker during mid-air refueling at 31,000 feet (9,450 m) over the Mediterranean Sea.|
+|[1994 Cobo Arena attack](https://en.wikipedia.org/wiki/1994_Cobo_Arena_attack)|American figure skater Nancy Kerrigan was struck on the lower right thigh by assailant Shane Stant as she walked down a corridor in Cobo Arena in Detroit, Michigan. Kerrigan had been practicing skating on an ice rink in the arena shortly beforehand. The attack was planned by fellow American figure skater Tonya Harding's ex-husband, Jeff Gillooly, and his co-conspirator Shawn Eckardt.|
 |[21 Grams Experiment](https://en.wikipedia.org/wiki/21_grams_experiment)|The 21 grams experiment refers to a scientific study published in 1907 by Duncan MacDougall, a physician from Haverhill, Massachusetts. MacDougall hypothesized that souls have physical weight, and attempted to measure the mass lost by a human when the soul departed the body. MacDougall attempted to measure the mass change of six patients at the moment of death. One of the six subjects lost three-fourths of an ounce (21.3 grams).|
-|[27 Club](https://en.wikipedia.org/wiki/27_Club)|The 27 Club is a list consisting mostly of popular musicians, artists, or actors who died at age 27. Although the claim of a \"statistical spike\" for the death of musicians at that age has been repeatedly disproved by research, it remains a cultural phenomenon, documenting the deaths of celebrities, some noted for their high-risk lifestyles.|
+|[27 Club](https://en.wikipedia.org/wiki/27_Club)|A list consisting mostly of popular musicians, artists, or actors who died at age 27.|
 |[4'33\"](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3)|4'33\" (pronounced \"four minutes, thirty-three seconds\") is a three-movement composition by American experimental composer John Cage (1912–1992). It was composed in 1952, for any instrument or combination of instruments, and the score instructs performers not to play their instruments during the entire duration of the piece throughout the three movements.|
 |[52-Hertz Whale](https://en.wikipedia.org/wiki/52-hertz_whale)|The 52-hertz whale is an unidentified whale which calls at the very unusual frequency of 52 Hz. It has been described as the loneliest whale in the world. It has been detected since the 1980s.|
 |[555 (telephone number)](https://en.wikipedia.org/wiki/555_(telephone_number))|The telephone number prefix 555 is a central office code in the North American Numbering Plan. It has traditionally been used only for the provision of directory assistance. The 555 prefix is also used for fictitious telephone numbers in North American television shows, films, video games, and other media in order to prevent practical jokers and curious callers from bothering telephone subscribers and organizations by calling telephone numbers they see in works of fiction.|
@@ -33,7 +34,8 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Action Park](https://en.wikipedia.org/wiki/Action_Park)|Action Park was an amusement and water park located in Vernon Township, New Jersey, United States, on the grounds of the Vernon Valley/Great Gorge ski resort. The park consisted primarily of water-based attractions and originally opened to the public in 1978. Action Park's popularity went hand-in-hand with a reputation for poorly designed rides, under-trained and under-aged staff, intoxicated guests and staff, and a consequently poor safety record. At least six people are known to have died as a result of mishaps on rides at the park, and it was given nicknames such as \"Accident Park\", and \"Class Action Park\".|
 |[Adages](https://en.wikipedia.org/wiki/Category:Adages)||
 |[Albert C. Geyser](https://en.wikipedia.org/wiki/Albert_C._Geyser)|Albert C. Geyser is known for creating the Cornell Tube in 1905. The Cornell Tube was made of heavy lead glass through which no x-rays were thought to be emitted. He was known for promoting x-ray to eliminate excessive hair to achieve faultless skin. Unfortunately, Geyser's experimentation forced the amputation of all the fingers, metacarpal bones, and one row of carpal bones on his left hand to stop the spread of cancer. He later lost his right hand to ulcers. |
-|[Alien Hand Syndrome](https://en.wikipedia.org/wiki/Alien_hand_syndrome)|Alien hand syndrome (AHS) or Dr. Strangelove syndrome is a category of conditions in which a person experiences their limbs acting seemingly on their own, without conscious control over the actions.|
+|[Alferd Packer](https://en.wikipedia.org/wiki/Alferd_Packer)||
+|[Alien Hand Syndrome](https://en.wikipedia.org/wiki/Alien_hand_syndrome)|A category of conditions in which a person experiences their limbs acting seemingly on their own, without conscious control over the actions.|
 |[Amber Room](https://en.wikipedia.org/wiki/Amber_Room)|The Amber Room was a chamber decorated in amber panels backed with gold leaf and mirrors, located in the Catherine Palace of Tsarskoye Selo near Saint Petersburg. Constructed in the 18th century in Prussia, the room was dismantled and eventually disappeared during World War II. Before its loss, it was considered an \"Eighth Wonder of the World\".|
 |[Analog hole](https://en.wikipedia.org/wiki/Analog_hole)||
 |[Ancient Astronauts](https://en.wikipedia.org/wiki/Ancient_astronauts)|\"Ancient astronauts\" is the idea that intelligent extraterrestrial beings visited Earth and made contact with humans in antiquity and prehistoric times. Proponents suggest that this contact influenced the development of modern cultures, technologies, religions, and human biology. A common position is that deities from most, if not all, religions are extraterrestrial in origin, and that advanced technologies brought to Earth by ancient astronauts were interpreted as evidence of divine status by early humans.|
@@ -42,17 +44,18 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Andy Kaufman](https://en.wikipedia.org/wiki/Andy_Kaufman)|Andy Kaufman (January 17, 1949 – May 16, 1984) was an American comedian, wrestler, and performance artist. He has sometimes been called an \"anti-comedian\". He disdained telling jokes and engaging in comedy as it was traditionally understood. Kaufman died of lung cancer on May 16, 1984, at the age of 35. Because pranks and elaborate ruses were major elements of his career, persistent rumors have circulated that Kaufman faked his own death as a grand hoax.|
 |[Anglo-Zanzibar War](https://en.wikipedia.org/wiki/Anglo-Zanzibar_War)|The Anglo-Zanzibar War was a military conflict fought between the United Kingdom and the Zanzibar Sultanate on 27 August 1896. The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history.|
 |[Animal suicide](https://en.wikipedia.org/wiki/Animal_suicide)||
+|[anna delvey]()||
 |[Annie Oakley]()||
 |[Anosognosia](https://en.wikipedia.org/wiki/Anosognosia)||
 |[Anthropodermic bibliopegy](https://en.wikipedia.org/wiki/Anthropodermic_bibliopegy)||
 |[Antikythera mechanism](https://en.wikipedia.org/wiki/Antikythera_mechanism)|The Antikythera mechanism is an ancient Greek hand-powered orrery, described as the first analogue computer, the oldest known example of such a device used to predict astronomical positions and eclipses for calendar and astrological purposes decades in advance.|
-|[Anti-Mask League of San Francisco](https://en.wikipedia.org/wiki/Anti-Mask_League_of_San_Francisco)|The Anti-Mask League of San Francisco was an organization formed to protest an ordinance which required people in San Francisco, California to wear masks during the 1918 influenza pandemic. The ordinance it protested lasted less than one month before being repealed.|
-|[Anton–Babinski syndrome](https://en.wikipedia.org/wiki/Anton%E2%80%93Babinski_syndrome)|This syndrome, a rare symptom of brain damage, leads the sufferer to believe they can see despite being blind.|
+|[Anti-Mask League of San Francisco](https://en.wikipedia.org/wiki/Anti-Mask_League_of_San_Francisco)|Anti-Maskers were a thing 100 years before COVID-19!|
+|[Anton–Babinski syndrome](https://en.wikipedia.org/wiki/Anton%E2%80%93Babinski_syndrome)|A rare symptom of brain damage, leads the sufferer to believe they can see despite being blind.|
 |[António Egas Moniz](https://en.wikipedia.org/wiki/Ant%C3%B3nio_Egas_Moniz)|António Caetano de Abreu Freire Egas Moniz GCSE GCIB (29 November 1874 – 13 December 1955), was a Portuguese neurologist and the developer of cerebral angiography. He is regarded as one of the founders of modern psychosurgery, having developed the surgical procedure leucotomy—​known better today as lobotomy.|
 |[Antonov an-225 mriya](https://en.wikipedia.org/wiki/Antonov_An-225_Mriya)|The Antonov An-225 Mriya is an aircraft that was designed by the Antonov Design Bureau in the Ukrainian SSR within the Soviet Union during the 1980s. It is powered by six turbofan engines and is the heaviest aircraft ever built, with a maximum takeoff weight of 640 tonnes. It also has the largest wingspan of any aircraft in operational service.|
 |[Aokigahara](https://en.wikipedia.org/wiki/Aokigahara)|Aokigahara is a forest on the northwestern flank of Japan's Mount Fuji, thriving on 30 square kilometres (12 sq mi) of hardened lava laid down by the last major eruption of Mount Fuji in 864 CE. Parts of Aokigahara are very dense, and the porous lava absorbs sound, helping to provide visitors with a sense of solitude.In recent years, Aokigahara has become known as \"the Suicide Forest\", one of the world's most-used suicide sites; signs at the head of some trails urge suicidal visitors to think of their families and contact a suicide prevention association. |
 |[Apollo 11 Missing Tapes](https://en.wikipedia.org/wiki/Apollo_11_missing_tapes)|The Apollo 11 missing tapes were those that were recorded from Apollo 11's slow-scan television (SSTV) telecast in its raw format on telemetry data tape at the time of the first Moon landing in 1969 and subsequently lost. The data tapes were used to record all transmitted data (video as well as telemetry) for backup.|
-|[Arch Deluxe](https://en.wikipedia.org/wiki/Arch_Deluxe)|The Arch Deluxe was a hamburger sold by the international fast food restaurant chain McDonald's in 1996 and marketed specifically to adults. It was soon discontinued after failing to become popular despite a massive marketing campaign and now is considered one of the most expensive flops of all time.|
+|[Arch Deluxe](https://en.wikipedia.org/wiki/Arch_Deluxe)|A hamburger sold by McDonald's in 1996 and marketed specifically to adults. It was soon discontinued after failing to become popular despite a massive marketing campaign and now is considered one of the most expensive flops of all time.|
 |[Armin Meiwes](https://en.wikipedia.org/wiki/Armin_Meiwes)|Armin Meiwes is a German former computer repair technician who achieved international notoriety for killing and eating a voluntary victim in 2001, whom he had found via the Internet. After Meiwes and the victim jointly attempted to eat the victim's severed penis, Meiwes killed his victim and proceeded to eat a large amount of his flesh.|
 |[armored bulldozer](https://en.wikipedia.org/wiki/Armored_bulldozer)|The armored bulldozer is a basic tool of combat engineering. These combat engineering vehicles combine the earth moving capabilities of the bulldozer with armor which protects the vehicle and its operator in or near combat. Most are civilian bulldozers modified by addition of vehicle armor/military equipment, but some are tanks stripped of armament and fitted with a dozer blade.|
 |[Aron Ralston](https://en.wikipedia.org/wiki/Aron_Ralston)|Aron Lee Ralston (born October 27, 1975) is an American outdoorsman, mechanical engineer and motivational speaker known for surviving a canyoneering accident by cutting off his own arm.|
@@ -140,6 +143,7 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Dolly (Sheep)](https://en.wikipedia.org/wiki/Dolly_(sheep))|Dolly (5 July 1996 – 14 February 2003) was a female domestic sheep, and the first mammal cloned from an adult somatic cell, using the process of nuclear transfer.|
 |[Donald Ewen Cameron](https://en.wikipedia.org/wiki/Donald_Ewen_Cameron)|Donald Ewen Cameron (24 December 1901 – 8 September 1967) was a Scottish-born psychiatrist who served as President of the American Psychiatric Association (1952–1953) among others. In spite of his high professional reputation, he has been criticized for, among other things, administering electroconvulsive therapy and experimental drugs, including poisons such as curare, to patients and prisoners without their informed consent, and his role in the history of the development of psychological and medical torture techniques.|
 |[Donner Party](https://en.wikipedia.org/wiki/Donner_Party)|The Donner Party was a group of American pioneers who migrated to California in a wagon train from the Midwest. Delayed by a series of mishaps, they spent the winter of 1846–1847 snowbound in the Sierra Nevada mountain range. Some of the migrants resorted to cannibalism to survive, eating the bodies of those who had succumbed to starvation, sickness and extreme cold. |
+|[dr death]()||
 |[Duga Radar](https://en.wikipedia.org/wiki/Duga_radar)|Duga was a Soviet radar system used as part of the Soviet missile defense early-warning radar network. The system operated from July 1976 to December 1989. Two operational Duga radars were deployed. The Duga systems were extremely powerful, over 10 MW in some cases. They appeared without warning, sounding like a sharp, repetitive tapping noise by shortwave listeners the Russian Woodpecker. The random frequency hops disrupted legitimate broadcasts, amateur radio operations, oceanic commercial aviation communications, and utility transmissions, resulting in thousands of complaints by many countries worldwide. |
 |[Dyatlov Pass Incident](https://en.wikipedia.org/wiki/Dyatlov_Pass_incident)|The Dyatlov Pass Incident was an event in which nine Russian hikers died in the northern Ural Mountains between 1 and 2 February 1959, in uncertain circumstances. During the night, something caused them to cut their way out of their tents and flee the campsite while inadequately dressed for the heavy snowfall and subzero temperatures. |
 |[Dyson's Eternal Intelligence](https://en.wikipedia.org/wiki/Dyson's_eternal_intelligence)|Dyson's eternal intelligence concept (the Dyson Scenario), proposed by Freeman Dyson in 1979, proposes a means by which an immortal society of intelligent beings in an open universe may escape the prospect of the heat death of the universe by extending subjective time to infinity even though expending only a finite amount of energy.|
@@ -178,6 +182,7 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Fritz Haber](https://en.wikipedia.org/wiki/Fritz_Haber)||
 |[Fruchschoppen](https://en.wikipedia.org/wiki/Fr%C3%BChschoppen)||
 |[Fyre Festival](https://en.wikipedia.org/wiki/Fyre_Festival)|Fyre Festival was a fraudulent luxury music festival founded by Billy McFarland, CEO of Fyre Media Inc, and rapper Ja Rule. It was created with the intent of promoting the company's Fyre app for booking music talent. The festival was scheduled to take place on April 28–30 and May 5–7, 2017, on the Bahamian island of Great Exuma.|
+|[Galloping Gertie]()||
 |[Ganzfeld effect](https://en.wikipedia.org/wiki/Ganzfeld_effect)|The Ganzfeld effect is a phenomenon caused by exposure to an unstructured, uniform stimulation field. The effect is the result of the brain amplifying neural noise in order to look for the missing visual signals. The ganzfeld effect can also elicit hallucinations percepts in many people, in addition to an altered state of consciousness. |
 |[Gate Tower Building](https://en.wikipedia.org/wiki/Gate_Tower_Building)|Gate Tower Building is a 16-floor office building in Fukushima-ku, Osaka, Japan. It is notable for the highway offramp of the Ikeda Route that passes through the building.|
 |[General Motors Streetcar conspiracy](https://en.wikipedia.org/wiki/General_Motors_streetcar_conspiracy)|The notion of a General Motors streetcar conspiracy emerged after GM and other companies were convicted of monopolizing the sale of buses and supplies to National City Lines (NCL) and its subsidiaries.|
@@ -198,6 +203,7 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Grey goo](https://en.wikipedia.org/wiki/Grey_goo)||
 |[H. H. Holmes](https://en.wikipedia.org/wiki/H._H._Holmes)||
 |[Hashima Island](https://en.wikipedia.org/wiki/Hashima_Island)|Hashima Island is an abandoned island of Nagasaki, lying about 15 kilometers (9 miles) from the center of the city. It is one of 505 uninhabited islands in Nagasaki Prefecture. The island's most notable features are its abandoned concrete buildings, undisturbed except by nature, and the surrounding sea wall. |
+|[Hate Watching](https://en.wikipedia.org/wiki/Hate-watching)||
 |[Hauntology (Music)](https://en.wikipedia.org/wiki/Hauntology_(music))|Hauntology is a genre or loose category of music that evokes cultural memory and the aesthetics of the past. It developed in the 2000s primarily among British electronic musicians, and typically draws on British cultural sources from the 1940s to the 1970s, including library music, film and TV soundtracks, psychedelia, and public information films, often through the use of sampling.|
 |[Havana syndrome](https://en.wikipedia.org/wiki/Havana_syndrome)|Havana syndrome is a set of medical signs and symptoms experienced by United States and Canadian embassy staff in Cuba. Beginning in August 2017, reports surfaced that American and Canadian diplomatic personnel in Cuba had suffered a variety of health problems, dating back to late 2016.|
 |[Head Transplant](https://en.wikipedia.org/wiki/Head_transplant)|A head transplant is an experimental surgical operation involving the grafting of one organism's head onto the body of another; in many experiments the recipient's head was not removed but in others it has been. Experimentation in animals began in the early 1900s. As of 2021, no lasting successes have been achieved.|
@@ -213,13 +219,21 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Hold Your Wee for a Wii contest](https://en.wikipedia.org/wiki/KDND#%22Hold_Your_Wee_for_a_Wii%22_contest)|On January 12, 2007, KDND's morning show, the Morning Rave, held an on-air contest entitled Hold Your Wee for a Wii, in which contestants were asked to drink as much water as they could without urinating. The contestant able to hold the most water would win a Wii video game console; at the time, the Nintendo console was a very popular and sought-after item, but was nearly impossible to find in stores in North America. A 28-year-old contestant, Jennifer Strange, died of water intoxication hours after taking part in the contest.|
 |[Howard Dully](https://en.wikipedia.org/wiki/Howard_Dully)|Howard Dully (born November 30, 1948) is one of the youngest recipients of the transorbital lobotomy, a procedure performed on him when he was 12 years old. Dully received international attention in 2005, following the broadcasting of his story on National Public Radio. Subsequently, in 2007, he published a New York Times Best Seller memoir, My Lobotomy, a story of the hardships of his lobotomy, co-authored by Charles Fleming.|
 |[Howard Hughes](https://en.wikipedia.org/wiki/Howard_Hughes)||
+|[https://en.wikipedia.org/wiki/2021_United_States_Capitol_attack](https://en.wikipedia.org/wiki/2021_United_States_Capitol_attack)||
+|[https://en.wikipedia.org/wiki/Fort_Worth_Missing_Trio](https://en.wikipedia.org/wiki/Fort_Worth_Missing_Trio)||
 |[https://en.wikipedia.org/wiki/Infinite_monkey_theorem]()||
 |[https://en.wikipedia.org/wiki/J._R._%22Bob%22_Dobbs]()||
+|[https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack](https://en.wikipedia.org/wiki/January_6_United_States_Capitol_attack)||
 |[https://en.wikipedia.org/wiki/John_Edwards#Legal_career]()||
 |[https://en.wikipedia.org/wiki/Legalized_abortion_and_crime_effect]()||
+|[https://en.wikipedia.org/wiki/List_of_television_shows_notable_for_negative_reception](https://en.wikipedia.org/wiki/List_of_television_shows_notable_for_negative_reception)||
 |[https://en.wikipedia.org/wiki/Lorem_ipsum](https://en.wikipedia.org/wiki/Irom_Chanu_Sharmila)||
+|[https://en.wikipedia.org/wiki/News_International_phone_hacking_scandal](https://en.wikipedia.org/wiki/News_International_phone_hacking_scandal)||
+|[https://en.wikipedia.org/wiki/Nuclear-powered_aircraft](https://en.wikipedia.org/wiki/Nuclear-powered_aircraft)||
 |[https://en.wikipedia.org/wiki/Perverse_incentive#The_original_cobra_effect]()||
 |[https://en.wikipedia.org/wiki/The_quick_brown_fox_jumps_over_the_lazy_dog]()||
+|[https://en.wikipedia.org/wiki/Theodore_Edward_Coneys](https://en.wikipedia.org/wiki/Theodore_Edward_Coneys)||
+|[https://en.wikipedia.org/wiki/Tree_of_T%C3%A9n%C3%A9r%C3%A9](https://en.wikipedia.org/wiki/Tree_of_T%C3%A9n%C3%A9r%C3%A9)||
 |[https://en.wikipedia.org/wiki/Turboencabulator](https://en.wikipedia.org/wiki/Dutch_uncle)||
 |[Hubert Blaine Wolfeschlegelsteinhausenbergerdorff Sr.](https://en.wikipedia.org/wiki/Hubert_Blaine_Wolfeschlegelsteinhausenbergerdorff,_Sr.)|Hubert Blaine Wolfe­schlegel­stein­hausen­berger­dorff Sr. is the abbreviated name of a German-born American typesetter who has held the record for the longest personal name ever used. Hubert's name is made up from 27 names, including a 666-letter surname. |
 |[Huhes H-4 Hercules](https://en.wikipedia.org/wiki/Hughes_H-4_Hercules)|The Hughes H-4 Hercules (commonly known as the Spruce Goose; registration NX37602) is a prototype strategic airlift flying boat designed and built by the Hughes Aircraft Company. Intended as a transatlantic flight transport for use during World War II, it was not completed in time to be used in the war. The aircraft made only one brief flight on November 2, 1947, and the project never advanced beyond the single example produced. Built from wood because of wartime restrictions on the use of aluminum and concerns about weight, the aircraft was nicknamed the Spruce Goose by critics. The Hercules is the largest flying boat ever built.|
@@ -239,6 +253,7 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[James Miller (parachutist)](https://en.wikipedia.org/wiki/James_Miller_(parachutist))||
 |[Jeanne Calment](https://en.wikipedia.org/wiki/Jeanne_Calment)|Oldest person (122y)|
 |[Jenny](https://en.wikipedia.org/wiki/867-5309/Jenny)||
+|[jeremy wilson]()||
 |[Johannes Vermeer](https://en.wikipedia.org/wiki/Johannes_Vermeer)|Vermeer was a Dutch artist in the 1600s who was able to create photorealistic paintings, and nobody knows exactly how|
 |[John Bosley Ziegler](https://en.wikipedia.org/wiki/John_Bosley_Ziegler)||
 |[John F. Kennedy autopsy](https://en.wikipedia.org/wiki/John_F._Kennedy_autopsy)|The autopsy of president John F. Kennedy was performed at the Bethesda Naval Hospital in Bethesda, Maryland. The autopsy began at about 8 p.m. EST November 22, 1963 (on the day of his assassination) and ended at about 12:30 a.m. EST November 23, 1963.|
@@ -264,6 +279,7 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Last Meal](https://en.wikipedia.org/wiki/Last_meal)|A condemned prisoner's last meal is a customary ritual that precedes execution. In many countries, the prisoner may, within reason, select what the last meal will be. Includes a list of last meal requests.|
 |[Lawnchair Larry Flight](https://en.wikipedia.org/wiki/Lawnchair_Larry_flight)|On July 2, 1982, Larry Walters (April 19, 1949 – October 6, 1993) made a 45-minute flight in a homemade airship made of an ordinary patio chair and 45 helium-filled weather balloons. The aircraft rose to an altitude of over approximately 15,000 feet (4,600 m) and floated from the point of takeoff in San Pedro, California, into and violating controlled airspace near Long Beach Airport.|
 |[Lead Masks Case](https://en.wikipedia.org/wiki/Lead_Masks_Case)|The Lead Masks Case involves a series of events which led to the death of two Brazilian electronic technicians, Manoel Pereira da Cruz and Miguel José Viana, who had last been seen by their families on August 17, 1966. Their bodies were discovered on August 20, 1966, both wearing a formal suit, a lead eye mask, and a waterproof coat. The cause of their deaths has never been determined. |
+|[Lenna](https://en.wikipedia.org/wiki/Lenna)||
 |[Leon Theremin](https://en.wikipedia.org/wiki/Leon_Theremin)||
 |[Levitin effect](https://en.wikipedia.org/wiki/Levitin_effect)||
 |[List of air rage incidents](https://en.wikipedia.org/wiki/List_of_air_rage_incidents)|This is a list of air rage incidents in commercial air travel that have been covered in the media. Air rage occurs when air travelers or airline personnel act violently, abusively or disruptively towards others in the course of their travel.|
@@ -302,6 +318,7 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Lysenkoism](https://en.wikipedia.org/wiki/Lysenkoism)||
 |[Magic Roundabout (Swindon)](https://en.wikipedia.org/wiki/Magic_Roundabout_%28Swindon%29)||
 |[Maillard reaction](https://en.wikipedia.org/wiki/Maillard_reaction)|The Maillard reaction is a chemical reaction between amino acids and reducing sugars that gives browned food its distinctive flavor. Seared steaks, fried dumplings, cookies and other kinds of biscuits, breads, toasted marshmallows, and many other foods undergo this reaction.|
+|[malbone street wreck]()||
 |[Man of the Hole](https://en.wikipedia.org/wiki/Man_of_the_Hole)|The Man of the Hole (also known as \"Indian of the Hole\" ) is a man indigenous to Brazil who lives alone in the Amazon rainforest. He is believed to be the last surviving member of his tribe. It is unknown what language he speaks or what his tribe was called. The term \"Man of the Hole\" is a nickname used by officials and the media; his real name is unknown.|
 |[Marvin Heemeyer](https://en.wikipedia.org/wiki/Marvin_Heemeyer)||
 |[Mary Mallon](https://en.wikipedia.org/wiki/Mary_Mallon)|Mary Mallon (September 23, 1869 – November 11, 1938), also known as Typhoid Mary, was an Irish-born cook believed to have infected 53 people with typhoid fever, three of whom died, and the first person in the United States identified as an asymptomatic carrier of the disease. Because she persisted in working as a cook, by which she exposed others to the disease, she was twice forcibly quarantined by authorities, and died after a total of nearly three decades in isolation.|
@@ -329,8 +346,8 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Musical ear syndrome](https://en.wikipedia.org/wiki/Musical_ear_syndrome)||
 |[N ray](https://en.wikipedia.org/wiki/N_ray)|N rays (or N-rays) were a hypothesized form of radiation, described by French physicist Prosper-René Blondlot in 1903, and initially confirmed by others, but subsequently found to be illusory.|
 |[Nathaniel Bar-Jonah](https://en.wikipedia.org/wiki/Nathaniel_Bar-Jonah)|Nathaniel Benjamin Levi Bar-Jonah (February 15, 1957 – April 13, 2008) was an American convicted child molester, suspected serial killer and cannibal who was sentenced to a 130-year prison sentence without the possibility of parole in Montana after being convicted of kidnapping, aggravated assault, and sexual assault of various children.|
-|[Nazi gold](https://en.wikipedia.org/wiki/Nazi_gold)|Nazi gold is gold possessed by Nazi Germany. Much of the focus of the discussion is about how much of this was transferred by Germany to overseas banks during World War II; the ruling Nazi party executed a policy of looting the assets of its victims (nationally and internationally, including from those in concentration camps) to accumulate wealth, at least partly to finance the war efforts. Because gold stores are often private, exact details of transactions and storage are difficult to precisely identify. Gold that was collected was stored at least in part in central depositories. The transfer of gold in return for currency took place in collusion with many individual collaborative institutions. Although Swiss banks have been commonly identified as holding ill-gotten Nazi gold (although a nominally neutral party to the conflict, this in essence helped fund the Nazi war effort), the exact identities of the foreign banking institutions as well as the exact extent of the transactions remains unclear.|
 |[Nazi gold train](https://en.wikipedia.org/wiki/Nazi_gold_train)|The Nazi gold train or Wałbrzych gold train is an apocryphal train laden with gold and treasure that was buried by the Nazis in a tunnel in modern day Poland during the last days of World War II. Many searches for the train have been made, including by the Polish Army during the Cold War. According to historians, there is no proof the train ever existed. A search for the train between 2015 and 2018 received global media interest. The search culminated in a dig involving the Polish military, state officials and privately funded individuals.|
+|[Nazi gold](https://en.wikipedia.org/wiki/Nazi_gold)|Nazi gold is gold possessed by Nazi Germany. Much of the focus of the discussion is about how much of this was transferred by Germany to overseas banks during World War II; the ruling Nazi party executed a policy of looting the assets of its victims (nationally and internationally, including from those in concentration camps) to accumulate wealth, at least partly to finance the war efforts. Because gold stores are often private, exact details of transactions and storage are difficult to precisely identify. Gold that was collected was stored at least in part in central depositories. The transfer of gold in return for currency took place in collusion with many individual collaborative institutions. Although Swiss banks have been commonly identified as holding ill-gotten Nazi gold (although a nominally neutral party to the conflict, this in essence helped fund the Nazi war effort), the exact identities of the foreign banking institutions as well as the exact extent of the transactions remains unclear.|
 |[Nazi UFOs](https://en.wikipedia.org/wiki/Nazi_UFOs)|In ufology, conspiracy theory, science fiction, and comic book stories, claims or stories have circulated linking UFOs to Nazi Germany. The German UFO theories describe supposedly successful attempts to develop advanced aircraft or spacecraft prior to and during World War II, and further assert the post-war survival of these craft in secret underground bases in Antarctica, South America, or the United States, along with their creators.|
 |[Near-birth experience](https://en.wikipedia.org/wiki/Near-birth_experience)|A near-birth experience (also known as a pre-birth experience or pre-mortal experience) is an alleged recollected event which occurred before or during one's own birth, or during the pregnancy, an alleged remembering of one's own pre-existence, or an alleged encounter with the unborn child (usually via dream) experienced by relatives or close family friends.|
 |[Near-death experience](https://en.wikipedia.org/wiki/Near-death_experience)|A near-death experience (NDE) is a profound personal experience associated with death or impending death which researchers claim share similar characteristics. |
@@ -365,7 +382,9 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Piltdown Man](https://en.wikipedia.org/wiki/Piltdown_Man)|The Piltdown Man was a paleoanthropological fraud in which bone fragments were presented as the fossilised remains of a previously unknown early human. Although there were doubts about its authenticity virtually from the beginning, the remains were still broadly accepted for many years, and the falsity of the hoax was only definitively demonstrated in 1953.|
 |[Pit of Despair](https://en.wikipedia.org/wiki/Pit_of_despair)||
 |[Polybius](https://en.wikipedia.org/wiki/Polybius_(urban_legend))|Polybius is an urban legend concerning a fictitious 1980s arcade game. The legend describes the game as part of a government-run crowdsourced psychology experiment based in Portland, Oregon during 1981. Gameplay supposedly produced intense psychoactive and addictive effects in the player. These few publicly staged arcade machines were said to have been visited periodically by men in black for the purpose of data-mining the machines and analyzing these effects.|
+|[Pompeii]()||
 |[Potoooooooo](https://en.wikipedia.org/wiki/Potoooooooo)|Potoooooooo or variations of Pot-8-Os (1773 – November 1800) was an 18th-century thoroughbred racehorse who won over 30 races and defeated some of the greatest racehorses of the time. He went on to be a sire. He is now best known for the unusual spelling of his name, pronounced Potatoes.|
+|[Principality of Sealand](https://en.wikipedia.org/wiki/Principality_of_Sealand)||
 |[Principality of Sealand](https://en.wikipedia.org/wiki/Principality_of_Sealand)|The Principality of Sealand is a micronation that claims HM Fort Roughs (also known as Roughs Tower), an offshore platform in the North Sea approximately 12 kilometres (7.5 mi) off the coast of Suffolk, as its territory. Roughs Tower is a Maunsell Sea Fort that was built by the British during World War II. Since 1967, the decommissioned Roughs Tower has been occupied and claimed as a sovereign state by the family and associates of Paddy Roy Bates. Bates seized Roughs Tower from a group of pirate radio broadcasters in 1967 with the intention of setting up his own station there. Sealand was invaded by mercenaries in 1978, but was able to repel the attack.|
 |[Project MKUltra](https://en.wikipedia.org/wiki/Project_MKUltra)||
 |[Prometheus (tree)](https://en.wikipedia.org/wiki/Prometheus_%28tree%29)|Prometheus was the oldest known tree, at up to 5000 years old. It was accidentally cut down in the 1960s by a graduate student and the US Forest Service.|
@@ -379,7 +398,6 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Red Rain in Kerala](https://en.wikipedia.org/wiki/Red_rain_in_Kerala)|The Kerala red rain phenomenon was a blood rain event that occurred in Wynaad (Ambalavayil area) region of Malabar on Monday, 15 July 1957 and the colour subsequently turned yellow and also 25 July to 23 September 2001, when heavy downpours of red-coloured rain fell sporadically on the southern Indian state of Kerala, staining clothes pink.|
 |[Reincarnation](https://en.wikipedia.org/wiki/Reincarnation#Claims_of_remembering_past_life)|Reincarnation, also known as rebirth or transmigration, is the philosophical or religious belief that the non-physical essence of a living being begins a new life in a different physical form or body after biological death. Resurrection is a similar process hypothesized by some religions, that involves coming back to life in the same body.|
 |[Revenge dress](https://en.wikipedia.org/wiki/Revenge_dress)||
-|[Ricardo Lopez (Stalker)](https://en.wikipedia.org/wiki/Ricardo_L%C3%B3pez_(stalker))|Ricardo López (January 14, 1975 – September 12, 1996), also known as the \"Björk stalker\", was a Uruguayan-American pest control worker who attempted to kill Icelandic musician Björk in September 1996.|
 |[Richard Lee McNair](https://en.wikipedia.org/wiki/Richard_Lee_McNair)|Richard Lee McNair (born December 19, 1958) is a convicted murderer known for his ability to escape and elude capture. In escape, he successfully mailed himself out of prison.|
 |[Roanoke Colony](https://en.wikipedia.org/wiki/Roanoke_Colony)||
 |[Robert E. Cornish](https://en.wikipedia.org/wiki/Robert_E._Cornish)|Robert E. Cornish (December 21, 1903 – March 6, 1963) was an American biologist and writer, best known for his resuscitation experiments. In 1932 he became interested in the idea that he could restore life to the dead. Cornish decided to perfect his method on animals and managed to revive two dogs (Lazarus IV and V) clinically put to death on May 22, 1934 and in 1935.|
@@ -398,13 +416,13 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Schmidt sting pain index](https://en.wikipedia.org/wiki/Schmidt_sting_pain_index)|The Schmidt sting pain index is a pain scale rating the relative pain caused by different hymenopteran stings. It is mainly the work of Justin O. Schmidt (born 1947), an entomologist at the Carl Hayden Bee Research Center in Arizona, United States. Schmidt has published a number of papers on the subject, and claims to have been stung by the majority of stinging Hymenoptera.|
 |[Scientific misconduct](https://en.wikipedia.org/wiki/Scientific_misconduct)|Scientific misconduct is the violation of the standard codes of scholarly conduct and ethical behavior in the publication of professional scientific research.|
 |[Scunthorpe problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)||
-|[sealand]()||
 |[Seattle windshield pitting epidemic](https://en.wikipedia.org/wiki/Seattle_windshield_pitting_epidemic)|The Seattle windshield pitting epidemic is a phenomenon which affected Bellingham, Seattle, and other communities of Washington state in April, 1954; it is considered an example of a mass delusion. It was characterized by widespread observation of previously unnoticed windshield holes, pits and dings. It was originally thought to be the work of vandals but the rate of pitting was so great that residents began to attribute it to everything from sand flea eggs to nuclear bomb testing.|
 |[Seawise Giant](https://en.wikipedia.org/wiki/Seawise_Giant)|Seawise Giant was the longest ship ever constructed, at 458.45 m (1,504.1 ft), longer than the height of many of the world's tallest buildings.  It possessed the greatest deadweight tonnage ever recorded. Fully laden, its displacement was 657,019 tonnes. |
 |[Sedlec Ossuary](https://en.wikipedia.org/wiki/Sedlec_Ossuary)|The Sedlec Ossuary is a small Roman Catholic chapel, located beneath the Cemetery Church of All Saints in Kutná Hora in the Czech Republic. The ossuary is estimated to contain the skeletons of between 40,000 and 70,000 people, whose bones have, in many cases, been artistically arranged to form decorations and furnishings for the chapel. The ossuary is among the most visited tourist attractions of the Czech Republic, attracting over 200,000 visitors annually.|
-|[Self-experimentation in medicine](https://en.wikipedia.org/wiki/Self-experimentation_in_medicine)|Self-experimentation refers to scientific experimentation in which the experimenter conducts the experiment on her- or himself. Often this means that the designer, operator, subject, analyst, and user or reporter of the experiment are all the same. Self-experimentation has a long and well-documented history in medicine which continues to the present. Some of these experiments have been very valuable and shed new and often unexpected insights into different areas of medicine.|
+|[Self-experimentation in medicine](https://en.wikipedia.org/wiki/Self-experimentation_in_medicine)|Scientific experimentation in which the experimenter conducts the experiment on her- or himself.|
 |[Semantic Satiation](https://en.wikipedia.org/wiki/Semantic_satiation)|Semantic satiation is a psychological phenomenon in which repetition causes a word or phrase to temporarily lose meaning for the listener, who then perceives the speech as repeated meaningless sounds. Extended inspection or analysis (staring at the word or phrase for a lengthy period of time) in place of repetition also produces the same effect.|
 |[Simo Häyhä](https://en.wikipedia.org/wiki/Simo_H%C3%A4yh%C3%A4)|Simo \"Simuna\" Häyhä  (17 December 1905 – 1 April 2002) was a Finnish military sniper in the Second World War during the 1939–1940 Winter War against the Soviet Union. He used a Finnish-produced M/28-30, a variant of the Mosin–Nagant rifle, and a Suomi KP/-31 submachine gun. Häyhä is believed to have killed over 500 men during the Winter War, the highest number of sniper kills in any major war.|
+|[simulation hypothesis]()||
 |[Skeleton Coast](https://en.wikipedia.org/wiki/Skeleton_Coast)|The Skeleton Coast is the northern part of the Atlantic coast of Namibia and south of Angola from the Kunene River south to the Swakop River. The winds blow from land to sea, rainfall rarely exceeds 10 millimetres (0.39 in) annually and the climate is highly inhospitable. There is a constant, heavy surf on the beaches. In the days before engine-powered ships and boats, it was possible to get ashore through the surf but impossible to launch from the shore. The only way out was by going through a marsh hundreds of miles long and only accessible via a hot and arid desert. |
 |[Slab City, California](https://en.wikipedia.org/wiki/Slab_City,_California)|Slab City, also called The Slabs, is an unincorporated, off-the-grid squatter community in the Salton Trough area of the Sonoran Desert, in Imperial County, California. Slab City is known for a lifestyle that contradicts ordinary, civilized lifestyles.|
 |[South-up map orientation](https://en.wikipedia.org/wiki/South-up_map_orientation)|Research suggests that north-south positions on maps have psychological consequences. In general, north is associated with richer people, more expensive real estate, and higher altitude, while south is associated with poorer people, cheaper prices, and lower altitude (the \"north-south bias\").|
@@ -413,6 +431,7 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Speech-to-song illusion](https://en.wikipedia.org/wiki/Speech-to-song_illusion)||
 |[Spite House](https://en.wikipedia.org/wiki/Spite_house)|A spite house is a building constructed or substantially modified to irritate neighbors or any party with land stakes. Because long-term occupation is not the primary purpose of these houses, they frequently sport strange and impractical structures.|
 |[Spontaneous Human Combustion](https://en.wikipedia.org/wiki/Spontaneous_human_combustion)|Spontaneous human combustion (SHC) is the concept of the combustion of a living (or recently deceased) human body without an apparent external source of ignition. In addition to reported cases, descriptions of the alleged phenomenon appear in literature, and both types have been observed to share common characteristics in terms of circumstances and the remains of the victim.|
+|[Springfield Three](https://en.wikipedia.org/wiki/Springfield_Three)||
 |[Stanford prison experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment)|The Stanford prison experiment was a social psychology experiment that attempted to investigate the psychological effects of perceived power, focusing on the struggle between prisoners and prison officers. It was conducted at Stanford University on the days of August 15–21, 1971, by a research group led by psychology professor Philip Zimbardo using college students. Volunteers were assigned to be either \"guards\" or \"prisoners\" in a mock prison. Early reports on experimental results claimed that students quickly embraced their assigned roles, with some guards enforcing authoritarian measures and ultimately subjecting some prisoners to psychological torture, while many prisoners passively accepted psychological abuse and, by the officers' request, actively harassed other prisoners who tried to stop it.|
 |[Stanislav Petrov](https://en.wikipedia.org/wiki/Stanislav_Petrov)||
 |[Starfish Prime](https://en.wikipedia.org/wiki/Starfish_Prime)||
@@ -424,8 +443,9 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Synesthesia](https://en.wikipedia.org/wiki/Synesthesia)||
 |[Tadeusz Ko%C5%9Bciuszko](https://en.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko)||
 |[Tamam Shud Case](https://en.wikipedia.org/wiki/Tamam_Shud_case)|The Tamám Shud case, also known as the Mystery of the Somerton Man, is an unsolved case of an unidentified man found dead in 1948 on the Somerton Park beach, just south of Adelaide, South Australia, Australia. The case is named after the Persian phrase tamám shud, meaning \"ended\" or \"finished\", which was printed on a scrap of paper found months later in the fob pocket of the man's trousers. |
+|[Target Fixation](https://en.wikipedia.org/wiki/Target_fixation)||
 |[Tarrare](https://en.wikipedia.org/wiki/Tarrare)||
-|[Taumata (abbreviated)](https://en.wikipedia.org/wiki/Taumatawhakatangi%C2%ADhangakoauauotamatea%C2%ADturipukakapikimaunga%C2%ADhoronukupokaiwhen%C2%ADuakitanatahu)|Taumata­whakatangihanga­koauau­o­tamatea­turi­pukaka­piki­maunga­horo­nuku­pokai­whenua­ki­tana­tahu is a hill near Porangahau, south of Waipukurau in southern Hawke's Bay, New Zealand. The height of the hill is 305 metres (1,001 ft). The hill is notable primarily for its unusually long name, which is of Māori origin; it is often shortened to Taumata for brevity. It has gained a measure of fame as it is the longest place name found in any English-speaking country, and possibly the longest place name in the world; according to World Atlas. The name of the hill (with 85 characters) has also been listed in the Guinness World Records as the longest place name. Other versions of the name, including longer ones, are also sometimes used.|
+|[Taumata (abbreviated)](https://en.wikipedia.org/wiki/Taumatawhakatangi%C2%ADhangakoauauotamatea%C2%ADturipukakapikimaunga%C2%ADhoronukupokaiwhen%C2%ADuakitanatahu)|A hill near Porangahau, south of Waipukurau in southern Hawke's Bay, New Zealand.The hill is notable primarily for its unusually long name, which is of Māori origin.|
 |[Teapot Dome Service Station](https://en.wikipedia.org/wiki/Teapot_Dome_Service_Station)||
 |[Ted Kaczynski](https://en.wikipedia.org/wiki/Ted_Kaczynski)||
 |[Test Card F](https://en.wikipedia.org/wiki/Test_Card_F)||
@@ -445,12 +465,12 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Thomas Midgely Jr](https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.)|Thomas Midgley Jr. (May 18, 1889 – November 2, 1944) was an American mechanical and chemical engineer. He played a major role in developing leaded gasoline and some of the first chlorofluorocarbons (CFCs), aka Freon; both products were later banned due to their impact on human health and the environment. He is remembered as having \"had more impact on the atmosphere than any other single organism in Earth's history\"|
 |[Thomas Stoltz Harvey](https://en.wikipedia.org/wiki/Thomas_Stoltz_Harvey)|Thomas Stoltz Harvey (October 10, 1912 – April 5, 2007) was a pathologist who conducted the autopsy on Albert Einstein in 1955. Harvey later kept Einstein's brain without permission for decades.|
 |[Three Wolf Moon](https://en.wikipedia.org/wiki/Three_Wolf_Moon)|Three Wolf Moon is a T-shirt featuring three wolves howling at the moon. The numerous satirical reviews for this on Amazon.com have become an Internet phenomenon. The T-shirt was designed by artist Antonia Neshev.|
-|[time travel](https://en.wikipedia.org/wiki/Time_travel)|Time travel is the concept of movement between certain points in time, analogous to movement between different points in space by an object or a person, typically with the use of a hypothetical device known as a time machine. Time travel is a widely recognized concept in philosophy and fiction, particularly science fiction. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine.|
 |[Time travel claims and urban legends](https://en.wikipedia.org/wiki/Time_travel_claims_and_urban_legends)|There have been various accounts of persons who allegedly travelled through time reported by the press or circulated on the Internet. These reports have generally turned out either to be hoaxes or to be based on incorrect assumptions, incomplete information, or interpretation of fiction as fact, many being now recognized as urban legends. |
+|[time travel](https://en.wikipedia.org/wiki/Time_travel)|Time travel is the concept of movement between certain points in time, analogous to movement between different points in space by an object or a person, typically with the use of a hypothetical device known as a time machine. Time travel is a widely recognized concept in philosophy and fiction, particularly science fiction. The idea of a time machine was popularized by H. G. Wells's 1895 novel The Time Machine.|
 |[Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)|While the future cannot be predicted with certainty, present understanding in various scientific fields allows for the prediction of some far-future events, if only in the broadest outline. These fields include astrophysics, which has revealed how planets and stars form, interact, and die; particle physics, which has revealed how matter behaves at the smallest scales; evolutionary biology, which predicts how life will evolve over time; and plate tectonics, which shows how continents shift over millennia.|
 |[Timothy Dexter](https://en.wikipedia.org/wiki/Timothy_Dexter)||
 |[Timothy Treadwell](https://en.wikipedia.org/wiki/Timothy_Treadwell)|Tim Treadwell was an American bear enthusiast, environmentalist, and documentary filmmaker and founder of the bear-protection organization Grizzly People. He lived among grizzly bears in Katmai National Park in Alaska for 13 summers. At the end of summer 2003, at 46 years old, he and his girlfriend Amie Huguenard were killed and almost fully eaten by a 28-year-old brown bear, whose stomach was later found to contain human remains and clothing.|
-|[Toast Sandwich](https://en.wikipedia.org/wiki/Toast_sandwich)|A toast sandwich is a sandwich made with two slices of bread in which the filling is a thin slice of toasted bread, which may be heavily buttered.[1][2] An 1861 recipe says to add salt and pepper to taste.[1]|
+|[Toast Sandwich](https://en.wikipedia.org/wiki/Toast_sandwich)|A toast sandwich is a sandwich made with two slices of bread in which the filling is a thin slice of toasted bread, which may be heavily buttered.|
 |[Tobacco bowdlerization](https://en.wikipedia.org/wiki/Tobacco_bowdlerization)|Tobacco bowdlerization occurs when a publisher or government agency expurgates a photograph, text, or video document to remove images and references to consuming tobacco products. It often occurs in conjunction with traditional restrictions on tobacco advertising, and is most commonly seen on works that are aimed at children.|
 |[Toilet Paper Orientation](https://en.wikipedia.org/wiki/Toilet_paper_orientation)|This article includes studies based on the under vs over preference for hanging toilet paper.|
 |[Topsy (elephant)](https://en.wikipedia.org/wiki/Topsy_(elephant))||
@@ -458,15 +478,15 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Tourist guy](https://en.wikipedia.org/wiki/Tourist_guy)|The \"tourist guy\" was a hoax that featured a digitally altered photograph of a tourist on the observation deck of the World Trade Center, supposedly on the day of the September 11 attacks, showing a plane about to hit the tower in the background. The photo became an Internet phenomenon as many manipulated pictures spread online.|
 |[Tree That owns itself](https://en.wikipedia.org/wiki/Tree_That_Owns_Itself)|The Tree That Owns Itself is a white oak tree that, according to legend, has legal ownership of itself and of all land within eight feet (2.4 m) of its base. The tree, also called the Jackson Oak, is at the corner of South Finley and Dearing Streets in Athens, Georgia, United States. |
 |[trypophobia](https://en.wikipedia.org/wiki/Trypophobia)|Trypophobia is an aversion to the sight of irregular patterns or clusters of small holes or bumps. It is not officially recognized as a mental disorder, but may be diagnosed as a specific phobia if excessive fear and distress occur. People may express only disgust to trypophobic imagery.|
-|[Tunguska event](https://en.wikipedia.org/wiki/Tunguska_event)|The Tunguska event was a massive explosion that occurred near the Podkamennaya Tunguska River in Yeniseysk Governorate (now Krasnoyarsk Krai), Russia, on the morning of 30 June 1908. The explosion over the sparsely populated Eastern Siberian Taiga flattened an estimated 80 million trees over an area of 2,150 km2 (830 sq mi) of forest, and eyewitness reports suggest that at least three people may have died in the event.|
+|[Tunguska event](https://en.wikipedia.org/wiki/Tunguska_event)|A massive explosion that occurred in Russia, on the morning of 30 June 1908. The explosion over the sparsely populated Eastern Siberian Taiga flattened an estimated 80 million trees over an area of 2,150 km2 (830 sq mi) of forest.|
 |[Tuskegee Syphilis Study](https://en.wikipedia.org/wiki/Tuskegee_Syphilis_Study)|The Tuskegee Study of Untreated Syphilis in the Negro Male, was an unethical natural history study conducted between 1932 and 1972 by the United States Public Health Service (PHS) and the Centers for Disease Control and Prevention (CDC). The purpose of this study was to observe the natural history of untreated syphilis; the African-American men who participated in the study were told that they were receiving free health care from the federal government of the United States.|
 |[Ultimate fate of the universe](https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe)||
 |[Uncanny valley](https://en.wikipedia.org/wiki/Uncanny_valley)||
 |[Uncontacted peoples](https://en.wikipedia.org/wiki/Uncontacted_peoples)|Uncontacted peoples are communities or groups of indigenous peoples living without sustained contact to neighbouring communities and the world community, and includes \"indigenous peoples in voluntary isolation\". In 2013 there were thought to be roughly 100 uncontacted tribes worldwide, half of whom live in the Amazon rainforest.|
 |[United Airlines Flight 976](https://en.wikipedia.org/wiki/United_Airlines_Flight_976)|This flight is known for featuring what has been called the worst ever case of air rage.|
-|[Unrecovered/unusable flight recorders](https://en.wikipedia.org/wiki/List_of_unrecovered_and_unusable_flight_recorders)|Flight data recorders (FDRs) and cockpit voice recorders (CVRs) in commercial aircraft continuously record information and can provide key evidence in determining the causes of an aircraft loss. The greatest depth from which a flight recorder has been recovered is 16,000 feet (4,900 m), for the CVR of South African Airways Flight 295. Most flight recorders are equipped with underwater locator beacons to assist searchers in recovering them from offshore crash sites, however these beacons run off a battery and eventually stop transmitting. For various reasons, a flight recorder cannot always be recovered, and many recorders that are recovered are too damaged to provide any data.|
+|[Unrecovered/unusable flight recorders](https://en.wikipedia.org/wiki/List_of_unrecovered_and_unusable_flight_recorders)|Most flight recorders are equipped with underwater locator beacons to assist searchers in recovering them from offshore crash sites, however these beacons run off a battery and eventually stop transmitting. For various reasons, a flight recorder cannot always be recovered, and many recorders that are recovered are too damaged to provide any data.|
 |[Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)|Of the over six million articles in the English Wikipedia there are some articles that Wikipedians have identified as being somewhat unusual. These articles are verifiable, valuable contributions to the encyclopedia, but are a bit odd, whimsical, or something one would not expect to find in Encyclopædia Britannica.|
-|[Unusual eBay listings](https://en.wikipedia.org/wiki/Unusual_eBay_listings)|In May 2006, a man from Brisbane, Australia tried to sell the country of New Zealand on eBay. The auction started at A$0.01 but reached A$3000 before eBay took it down.|
+|[Unusual eBay listings](https://en.wikipedia.org/wiki/Unusual_eBay_listings)|A man from Brisbane, Australia tried to sell the country of New Zealand on eBay.|
 |[Unusual Place Names](https://en.wikipedia.org/wiki/Wikipedia:Unusual_place_names)||
 |[Uruguayan Air Force Flight 571](https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571)|Uruguayan Air Force flight 571, also called Miracle of the Andes, was a flight charted by a Uruguayan amateur rugby team that crashed in the Andes Mountains in Argentina on October 13, 1972, the wreckage of which was not located for more than two months. Of the 45 people aboard the plane, only 16 survived the ordeal. The incident garnered international attention, especially after it was revealed that the survivors had resorted to cannibalism.|
 |[Vantablack](https://en.wikipedia.org/wiki/Vantablack)|Vantablack is a material developed by Surrey NanoSystems in the United Kingdom and is one of the darkest substances known, absorbing up to 99.965% of visible light (at 663 nm if the light is perpendicular to the material).|
@@ -474,161 +494,16 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Villisca axe murders]()||
 |[Visual release hallucinations](https://en.wikipedia.org/wiki/Visual_release_hallucinations)||
 |[Vladimir Demikhov](https://en.wikipedia.org/wiki/Vladimir_Demikhov)|Vladimir Petrovich Demikhov (July 18, 1916 – November 22, 1998) was a Soviet scientist and organ transplantation pioneer, who performed several transplants in the 1940s and 1950s, including the transplantation of a heart into an animal and a heart–lung replacement in an animal. He is also well known for his dog head transplants, which he conducted during the 1950s, resulting in two-headed dogs. |
-|[Vladimir Gavreau](https://en.wikipedia.org/wiki/Vladimir_Gavreau)|Vladimir Gavreau, born Vladimir Gavronsky (died between 1968 and 1972), was a French scientist making experiments on the biological effects of infrasound.|
-|[Volkswagen emissions scandal](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal)|The Volkswagen emissions scandal began in September 2015, when the United States Environmental Protection Agency (EPA) issued a notice of violation of the Clean Air Act to German automaker Volkswagen Group. The agency had found that Volkswagen had intentionally programmed turbocharged direct injection (TDI) diesel engines to activate their emissions controls only during laboratory emissions testing which caused the vehicles' emissions to meet US standards during regulatory testing, but produce up to 40 times more emissions in real-world driving.|
-|[Voyager Golden Record](https://en.wikipedia.org/wiki/Voyager_Golden_Record)|The Voyager Golden Records are two phonograph records that were included aboard both Voyager spacecraft launched in 1977. The records contain sounds and images selected to portray the diversity of life and culture on Earth, and are intended for any intelligent extraterrestrial life form who may find them. The records are a sort of time capsule.|
-|[voynich manuscript](https://en.wikipedia.org/wiki/Voynich_manuscript)|The Voynich manuscript is an illustrated codex hand-written in an unknown, possibly meaningless writing system. The vellum on which it is written has been carbon-dated to the early 15th century (1404–1438).|
-|[Wade Davis](https://en.wikipedia.org/wiki/Wade_Davis_(anthropologist))||
-|[Wanda Tinasky](https://en.wikipedia.org/wiki/Wanda_Tinasky)||
-|[War of the currents](https://en.wikipedia.org/wiki/War_of_the_currents)||
-|[Watergate Scandal](https://en.wikipedia.org/wiki/Watergate_scandal)||
-|[Weeping statue](https://en.wikipedia.org/wiki/Weeping_statue)|A weeping statue is a statue which has been claimed to have shed tears or to be weeping by supernatural means. Statues weeping tears which appear to be blood, oil, and scented liquids have all been reported. Other claimed phenomena are sometimes associated with weeping statues such as miraculous healing, the formation of figures in the tear lines, and the scent of roses. These events are generally reported by Christians, and initially attract pilgrims, but are in most cases disallowed by the Church as proven hoaxes.|
+|[Vladimir Gavreau](https://en.wikipedia.org/wiki/Vladimir_Gavreau)|A French scientist making experiments on the biological effects of infrasound.|
+|[Volkswagen emissions scandal](https://en.wikipedia.org/wiki/Volkswagen_emissions_scandal)|Volkswagen had intentionally programmed turbocharged direct injection (TDI) diesel engines to activate their emissions controls only during laboratory emissions testing which caused the vehicles' emissions to meet US standards during regulatory testing, but produce up to 40 times more emissions in real-world driving.|
+|[Weeping statue](https://en.wikipedia.org/wiki/Weeping_statue)|A statue which has been claimed to have shed tears or to be weeping by supernatural means. Statues weeping tears which appear to be blood, oil, and scented liquids have all been reported.|
 |[WeWork](https://en.wikipedia.org/wiki/WeWork)||
-|[William Beaumont](https://en.wikipedia.org/wiki/William_Beaumont)||
 |[William Langston](https://en.wikipedia.org/wiki/William_Langston)||
-|[winchester mystery house](https://en.wikipedia.org/wiki/Winchester_Mystery_House)|The Winchester Mystery House is a mansion in San Jose, California, that was once the personal residence of Sarah Winchester, the widow of firearm magnate William Wirt Winchester. Located at 525 South Winchester Blvd. in San Jose, the Queen Anne Style Victorian mansion is renowned for its size, its architectural curiosities, and its lack of any master building plan. It is a designated California historical landmark and is listed on the National Register of Historic Places. It is privately owned and serves as a tourist attraction.|
+|[winchester mystery house](https://en.wikipedia.org/wiki/Winchester_Mystery_House)|A mansion in San Jose, California, that was once the personal residence of Sarah Winchester, the widow of firearm magnate William Wirt Winchester. Renowned for its size, its architectural curiosities, and its lack of any master building plan.|
 |[Witch Window](https://en.wikipedia.org/wiki/Witch_window)|In American vernacular architecture, a witch window (also known as a Vermont window, among other names) is a window placed in the gable-end wall of a house and rotated approximately 1/8 of a turn (45 degrees) from the vertical, leaving it diagonal, with its long edge parallel to the roof slope. The name \"witch window\" appears to come from a folk belief that witches cannot fly their broomsticks through the tilted windows, although it seems unlikely that the tale was taken seriously.|
 |[World Chess Championship 1972](https://en.wikipedia.org/wiki/World_Chess_Championship_1972)|The World Chess Championship 1972 was a match for the World Chess Championship between challenger Bobby Fischer of the United States and defending champion Boris Spassky of the Soviet Union.|
 |[Wow! Signal](https://en.wikipedia.org/wiki/Wow!_signal)|The Wow! signal was a strong narrowband radio signal received on August 15, 1977, by Ohio State University's Big Ear radio telescope in the United States, then used to support the search for extraterrestrial intelligence. The signal appeared to come from the direction of the constellation Sagittarius and bore the expected hallmarks of extraterrestrial origin.|
 |[Yanny or Laurel](https://en.wikipedia.org/wiki/Yanny_or_Laurel)||
-|[Yuba County Five](https://en.wikipedia.org/wiki/Yuba_County_Five)|The Yuba County Five were all young men from Yuba City, California, United States, all with mild intellectual disabilities or psychiatric conditions, who attended a college basketball game at California State University, Chico on the night of February 24, 1978. Four of them—Bill Sterling, 29; Jack Huett, 24; Ted Weiher, 32; and Jack Madruga, 30—were later found dead; the fifth, Gary Mathias, 25, has never been found.|
-|[Yugo](https://en.wikipedia.org/wiki/Yugo)|The Yugo, also marketed as the Zastava Koral and Yugo Koral, is a subcompact car hatchback formerly manufactured by Zastava Automobiles, at the time a Yugoslav corporation. The car has been subjected to much criticism over its design and reliability; the historian Jason Vuic has called it \"the worst car in history.\"|
+|[Yuba County Five](https://en.wikipedia.org/wiki/Yuba_County_Five)|The Yuba County Five were all young men from Yuba City, California, United States, all with mild intellectual disabilities or psychiatric conditions, who attended a college basketball game at California State University, Chico on the night of February 24, 1978. Four of them were later found dead; the fifth, Gary Mathias, 25, has never been found.|
+|[Yugo](https://en.wikipedia.org/wiki/Yugo)|The Yugo is a subcompact car hatchback. The car has been subjected to much criticism over its design and reliability; the historian Jason Vuic has called it \"the worst car in history.\"|
 |[Zhengzhou Airport Riot](https://en.wikipedia.org/wiki/Zhengzhou_Airport_riot)|The Zhengzhou Airport riot occurred on 5–6 February 2014. Passengers at the airport in Zhengzhou, capital of the Chinese province of Henan, angry over lengthy delays due to snowy weather, smashed computers at airline check-in counters and destroyed information kiosks. It has been estimated that as many as 2,000 people took part over two days before police were able to restore order.|
-|[Alferd Packer]()||
-|[Who put Bella in the wych elm?]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[anna delvey]()||
-|[jeremy wilson]()||
-|[wework]()||
-|[Pompeii]()||
-|[simulation hypothesis]()||
-|[malbone street wreck]()||
-|[dr death]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
-|[]()||
