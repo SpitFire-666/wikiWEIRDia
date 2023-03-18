@@ -508,3 +508,6 @@ If you find this page entertaining, useful, or even a complete waste of time (in
 |[Yugo](https://en.wikipedia.org/wiki/Yugo)|The Yugo is a subcompact car hatchback. The car has been subjected to much criticism over its design and reliability; the historian Jason Vuic has called it \"the worst car in history.\"|
 |[Zhengzhou Airport Riot](https://en.wikipedia.org/wiki/Zhengzhou_Airport_riot)|The Zhengzhou Airport riot occurred on 5–6 February 2014. Passengers at the airport in Zhengzhou, capital of the Chinese province of Henan, angry over lengthy delays due to snowy weather, smashed computers at airline check-in counters and destroyed information kiosks. It has been estimated that as many as 2,000 people took part over two days before police were able to restore order.|
 | https://en.wikipedia.org/wiki/Operation_Wandering_Soul
+| MH370 |
+| MH17 |
+
