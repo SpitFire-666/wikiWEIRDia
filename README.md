@@ -12,7 +12,13 @@ Through sheer determination, the app was approved and listed, only to die a deat
 
 ## Support This List! 💵
 
+![image](https://user-images.githubusercontent.com/38451588/227109207-2b81ee1c-4ccf-4c5d-9cbc-7c5a047397d4.png)
+
+<a href="https://www.buymeacoffee.com/channelKERR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="...or a beer!" style="height: 60px !important;width: 217px !important;" ></a>
+
 If you find this page entertaining, useful, or even a complete waste of time (in a good way) and want to donate - you can [here!](https://www.paypal.com/paypalme/campbellkerr)
+
+
 
 # The list! 
 
